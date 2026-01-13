@@ -38,7 +38,7 @@
       </a>
     </td>
 
-    <td align="center" valign="top">
+  <td align="center" valign="top">
       <img src="./동물%20이미지/raven.png" width="120" alt="김승욱" /><br />
       <b>김승욱</b><br />
       <a href="https://github.com/KIM-SUNG-UK">
@@ -46,7 +46,7 @@
       </a>
     </td>
 
-    <td align="center" valign="top">
+  <td align="center" valign="top">
       <img src="./동물%20이미지/squirrel.png" width="120" alt="김지연" /><br />
       <b>김지연</b><br />
       <a href="https://github.com/wldusdus63">
@@ -54,7 +54,7 @@
       </a>
     </td>
 
-    <td align="center" valign="top">
+  <td align="center" valign="top">
       <img src="./동물%20이미지/rabbit.png" width="120" alt="모희주" /><br />
       <b>모희주</b><br />
       <a href="https://github.com/heejudy">
@@ -62,7 +62,7 @@
       </a>
     </td>
 
-    <td align="center" valign="top">
+  <td align="center" valign="top">
       <img src="./동물%20이미지/mouse.png" width="120" alt="박지인" /><br />
       <b>박지인</b><br />
       <a href="https://github.com/mondayziin">
@@ -70,7 +70,7 @@
       </a>
     </td>
 
-    <td align="center" valign="top">
+  <td align="center" valign="top">
       <img src="./동물%20이미지/cat.png" width="120" alt="윤준상" /><br />
       <b>윤준상</b><br />
       <a href="https://github.com/wnstkd704">
