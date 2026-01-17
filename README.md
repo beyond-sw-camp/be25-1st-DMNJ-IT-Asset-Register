@@ -154,7 +154,7 @@ due_date 경과를 트리거로 반납관리 이벤트를 생성해 요구/경�
 ![](./이미지/요구사항명세서.jpg) 
 
 🔗 [요구사항 명세서](https://docs.google.com/spreadsheets/d/1Ud5T2h4dr9DT8dqLcxDZLFeatAoFF_CawhjO1A6-qOo/edit?gid=0#gid=0)
-< Google spreadsheets Used >
+
 
 ---
 
