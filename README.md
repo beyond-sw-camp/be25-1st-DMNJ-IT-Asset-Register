@@ -3,13 +3,13 @@
 # IT자산장부
 ## 사내 IT 자산 대여·반납·검수·통합관리 프로세스 DB 설계
 
-<img src="./이미지/한문아이콘.png?v=2" width="320" alt="대표 아이콘" />
+<img src="./이미지/로고_포스터/한문아이콘.png?v=2" width="320" alt="대표 아이콘" />
 <br />
 <sub><b>대표 아이콘</b></sub>
 
 <br /><br />
 
-<img src="./이미지/DB설계_포스터.png?v=4" width="620" alt="프로젝트 포스터" />
+<img src="./이미지/로고_포스터/DB설계포스터.png?v=4" width="620" alt="프로젝트 포스터" />
 <br />
 <sub><b>프로젝트 포스터</b></sub>
 
@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <img src="./동물%20이미지/siba.png" width="120" alt="신민수" /><br />
+      <img src="./이미지/동물%20이미지/siba.png" width="120" alt="신민수" /><br />
       <b>팀장:신민수</b><br />
       <a href="https://github.com/ZonezIpex">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -57,7 +57,7 @@
     </td>
 
  <td align="center" valign="top">
-      <img src="./동물%20이미지/raven.png" width="120" alt="김승욱" /><br />
+      <img src="./이미지/동물%20이미지/raven.png" width="120" alt="김승욱" /><br />
       <b>김승욱</b><br />
       <a href="https://github.com/KIM-SEUNG-WOOK">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -65,7 +65,7 @@
     </td>
 
   <td align="center" valign="top">
-      <img src="./동물%20이미지/squirrel.png" width="120" alt="김지연" /><br />
+      <img src="./이미지/동물%20이미지/squirrel.png" width="120" alt="김지연" /><br />
       <b>김지연</b><br />
       <a href="https://github.com/wldusdus63">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -73,7 +73,7 @@
     </td>
 
   <td align="center" valign="top">
-      <img src="./동물%20이미지/rabbit.png" width="120" alt="모희주" /><br />
+      <img src="./이미지/동물%20이미지/rabbit.png" width="120" alt="모희주" /><br />
       <b>모희주</b><br />
       <a href="https://github.com/heejudy">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -81,7 +81,7 @@
     </td>
 
    <td align="center" valign="top">
-      <img src="./동물%20이미지/mouse.png" width="120" alt="박지인" /><br />
+      <img src="./이미지/동물%20이미지/mouse.png" width="120" alt="박지인" /><br />
       <b>박지인</b><br />
       <a href="https://github.com/mondayziin">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -89,7 +89,7 @@
     </td>
 
   <td align="center" valign="top">
-      <img src="./동물%20이미지/cat.png" width="120" alt="윤준상" /><br />
+      <img src="./이미지/동물%20이미지/cat.png" width="120" alt="윤준상" /><br />
       <b>윤준상</b><br />
       <a href="https://github.com/wnstkd704">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -126,15 +126,15 @@
 
 - 플래텀(2025): IT 자산관리 솔루션 ‘셀리즈’, ITAM 기능 확장(QR 기반 대여/반납 등)  
   https://platum.kr/archives/252140  
-  ![](./이미지/플래텀.png)
+  ![](./이미지/참고자료/플래텀.png)
 
 - Sellease(셀리즈) 공식: QR코드 기반 임직원 자산 대여 프로세스(스캔 1회 대여/반납, 실시간 현황 등)  
   https://landing.sellease.io/ko/post/revolutionizing-asset-management-with-sellease-qr-code-based-employee-asset-rental  
-  ![](./이미지/셀리즈.png)
+  ![](./이미지/참고자료/셀리즈.png)
 
 - IT 자산 관리 절차의 정의 및 구현(Definition and implementation of procedures for IT assets managing)  
   https://doi.org/10.17261/Pressacademia.2017.478  
-  ![](./이미지/논문.png)
+  ![](./이미지/참고자료/논문.png)
 
 </details>
 
@@ -155,7 +155,7 @@
 
 <div align="center">
 
-![](./이미지/WBS.png)
+![](./이미지/프로젝트_구성/WBS.png)
 
 </div>
 
@@ -171,7 +171,7 @@
 ## 📄프로젝트 기획서
 
 - **프로젝트 기획서**: [기획서.pdf](./기획서.pdf)
-<img src="./이미지/기획서이미지.png" width="460" alt="기획서" />
+<img src="./이미지/프로젝트_구성/기획서이미지.png" width="460" alt="기획서" />
 
 <div align="center">
   <sub><kbd>🛠 Tool</kbd> <kbd>PDF</kbd> <kbd>📌 Output</kbd> <kbd>Planning Doc</kbd></sub>
@@ -184,7 +184,7 @@
 
 <div align="center">
 
-![](./이미지/프로젝트%20시나리오.png?v=2)
+![](./이미지/프로젝트_구성/프로젝트%20시나리오.png?v=2)
 
 </div>
 
@@ -201,7 +201,7 @@
 
 <div align="center">
 
-![](./이미지/요구사항명세서.png)
+![](./이미지/프로젝트_구성/요구사항명세서.png)
 
 </div>
 
@@ -218,7 +218,7 @@
 
 <div align="center">
 
-![](./이미지/유스케이스%20다이어그램.png?v=2)
+![](./이미지/프로젝트_구성/유스케이스%20다이어그램.png?v=2)
 
 </div>
 
@@ -234,7 +234,7 @@
 ## 🧱데이터 설계
 
 - **데이터 설계**: [데이터설계.pdf](./데이터설계.pdf)
-<img src="./이미지/데이터설계.png" width="460" alt="데이터설계" />
+<img src="./이미지/프로젝트_구성/데이터설계.png" width="460" alt="데이터설계" />
 
 <div align="center">
   <sub><kbd>🛠 Tool</kbd> <kbd>PDF</kbd> <kbd>📌 Output</kbd> <kbd>Planning Doc</kbd></sub>
@@ -247,7 +247,7 @@
 
 <div align="center">
 
-![](./이미지/ERD.png?v=1)
+![](./이미지/프로젝트_구성/ERD.png?v=1)
 
 </div>
 
@@ -263,7 +263,7 @@
 ## 🗃️테이블 명세서
 <div align="center">
   
-![](./이미지/테이블명세서.png)
+![](./이미지/프로젝트_구성/테이블명세서.png)
 
 </div>
   <div align="center">
