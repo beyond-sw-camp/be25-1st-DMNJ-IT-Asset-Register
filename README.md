@@ -705,9 +705,9 @@ CREATE OR REPLACE TABLE `policy_event_logs` (
 
 <table>
   <colgroup>
-    <col style="width: 18%" />
-    <col style="width: 28%" />
-    <col style="width: 54%" />
+    <col style="width: 22%" />
+    <col style="width: 30%" />
+    <col style="width: 48%" />
   </colgroup>
   <thead>
     <tr>
@@ -718,33 +718,56 @@ CREATE OR REPLACE TABLE `policy_event_logs` (
   </thead>
   <tbody>
     <tr>
-      <td><b>팀장 · 신민수</b></td>
-      <td>프로젝트 총괄 / 종합 피드백</td>
+      <td><nobr><b>팀장&nbsp;·&nbsp;신민수</b></nobr></td>
+      <td>
+        <nobr>프로젝트&nbsp;총괄</nobr><br/>
+        <nobr>종합&nbsp;피드백</nobr>
+      </td>
       <td>초기 기준(용어·정의·정책) 고정이 ERD·DDL·테스트 전 구간의 수정 비용을 가장 크게 줄였다.</td>
     </tr>
-    <tr>
-      <td><b>김지연</b></td>
-      <td>프로젝트 배경 / 문서 제작·통일화</td>
+
+<tr>
+      <td><nobr><b>김지연</b></nobr></td>
+      <td>
+        <nobr>프로젝트&nbsp;배경</nobr><br/>
+        <nobr>문서&nbsp;제작·통일화</nobr>
+      </td>
       <td>대여·반납·검수·상태값 정의를 문서에서 선명히 고정해야 이후 설계·로직 품질이 흔들리지 않는다.</td>
     </tr>
-    <tr>
-      <td><b>모희주</b></td>
-      <td>WBS 작성 / 발표 PPT 준비</td>
+
+<tr>
+      <td><nobr><b>모희주</b></nobr></td>
+      <td>
+        <nobr>WBS&nbsp;작성</nobr><br/>
+        <nobr>발표&nbsp;PPT&nbsp;준비</nobr>
+      </td>
       <td>결과 화면 나열보다 “절차→테스트→오류→원인→해결” 구조로 정리하는 게 전달력과 평가 기준 충족에 유리했다.</td>
     </tr>
-    <tr>
-      <td><b>박지인</b></td>
-      <td>요구사항 명세서 작성 / GitHub 관리</td>
+
+<tr>
+      <td><nobr><b>박지인</b></nobr></td>
+      <td>
+        <nobr>요구사항&nbsp;명세서&nbsp;작성</nobr><br/>
+        <nobr>GitHub&nbsp;관리</nobr>
+      </td>
       <td>문서·코드·산출물 버전이 어긋나면 검증이 불가하므로 재현 조건과 변경 이력을 기준으로 관리해야 한다.</td>
     </tr>
-    <tr>
-      <td><b>김승욱</b></td>
-      <td>테이블 명세서 제작 / 테이블 오류 검증</td>
+
+<tr>
+      <td><nobr><b>김승욱</b></nobr></td>
+      <td>
+        <nobr>테이블&nbsp;명세서&nbsp;제작</nobr><br/>
+        <nobr>테이블&nbsp;오류&nbsp;검증</nobr>
+      </td>
       <td>컬럼명·NULL·DEFAULT·제약조건의 명세↔DDL 불일치가 오류 대부분을 만들었고 1:1 매칭 검증이 필요했다.</td>
     </tr>
-    <tr>
-      <td><b>윤준상</b></td>
-      <td>ERD 작성 / 오류 테스트·수정</td>
+
+<tr>
+      <td><nobr><b>윤준상</b></nobr></td>
+      <td>
+        <nobr>ERD&nbsp;작성</nobr><br/>
+        <nobr>오류&nbsp;테스트·수정</nobr>
+      </td>
       <td>카디널리티·PK/FK·삭제 정책을 초기에 합의해야 데이터 무결성 오류가 반복되지 않는다.</td>
     </tr>
   </tbody>
