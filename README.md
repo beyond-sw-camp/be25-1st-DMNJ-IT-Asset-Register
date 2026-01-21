@@ -1,6 +1,9 @@
 <div align="center">
 
-# IT자산장부
+<img
+    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=900&size=56&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&height=120&lines=IT%EC%9E%90%EC%82%B0%EC%9E%A5%EB%B6%80"
+    alt="IT자산장부 타이핑"
+  />
 ## 사내 IT 자산 대여·반납·검수·통합관리 프로세스 DB 설계
 
 <img src="./이미지/로고_포스터/한문아이콘.png?v=2" width="320" alt="대표 아이콘" />
@@ -294,136 +297,112 @@
 <details>
 <summary><b>산출물 이미지로 보기</b></summary>
 
+<br>
+
+### 운영 프로세스 (대여·반납·검수·수리)
+
+<div>
+	
+#### 반납 요청 <br>
+<a href="./이미지/sql산출물/반납요청.png"></a>
+  <img src="./이미지/sql산출물/반납요청.png?v=1" width="600" />
+
+#### 반납 검수 <br>
+<a href="./이미지/sql산출물/반납검수.png"></a>
+  <img src="./이미지/sql산출물/반납검수.png?v=1" width="600" />
+
+#### 반납_경고규칙 <br>
+<a href="./이미지/sql산출물/반납_경고규칙.png"></a>
+  <img src="./이미지/sql산출물/반납_경고규칙.png?v=1" width="600" />
+
+#### 검수 결과 <br>
+<a href="./이미지/sql산출물/검수결과.png"></a>
+  <img src="./이미지/sql산출물/검수결과.png?v=1" width="600" />
+
+#### 검수 증빙 <br>
+<a href="./이미지/sql산출물/검수증빙.png"></a>
+  <img src="./이미지/sql산출물/검수증빙.png?v=1" width="600" />
+
+#### 수리 <br>
+<a href="./이미지/sql산출물/수리.png"></a>
+  <img src="./이미지/sql산출물/수리.png?v=1" width="600" />
+
+#### 대여_배정계약 <br>
+<a href="./이미지/sql산출물/대여_배정계약.png"></a>
+  <img src="./이미지/sql산출물/대여_배정계약.png?v=1" width="600" />
+
+</div>
+
+
+<br>
+
+<div>
+	
+### 자산·재고 데이터 (자산/상태/입출고) 
+
+#### 자산 <br>
+<a href="./이미지/sql산출물/자산.png"><a/>
+  <img src="./이미지/sql산출물/자산.png?v=1" width="600" /> 
+
+#### 자산 분류 <br>
+<a href="./이미지/sql산출물/자산분류.png"></a>
+  <img src="./이미지/sql산출물/자산분류.png?v=1" width="600" />
+
+#### 자산 상태 이력 <br>
+<a href="./이미지/sql산출물/자산상태이력.png"></a>
+  <img src="./이미지/sql산출물/자산상태이력.png?v=1" width="600" />
+
+#### 입고 이력 <br>
+<a href="./이미지/sql산출물/입고이력.png"></a>
+  <img src="./이미지/sql산출물/입고이력.png?v=1" width="600" />
+
+#### 출고 이력 <br>
+<a href="./이미지/sql산출물/출고이력.png"></a>
+  <img src="./이미지/sql산출물/출고이력.png?v=1" width="600" />
+
+</div>
+
+<br>
+
+<div>
+	
+### 조직·사용자 (권한/대상 관리)
+
+#### 부서<br>
+<a href="./이미지/sql산출물/부서.png"></a>
+  <img src="./이미지/sql산출물/부서.png?v=1" width="600" />
+
+#### 직원 <br>
+<a href="./이미지/sql산출물/직원.png"></a>
+  <img src="./이미지/sql산출물/직원.png?v=1" width="600" />
+
+#### 사용자_누적 상태 <br>
+<a href="./이미지/sql산출물/사용자_누적상태.png"></a>
+  <img src="./이미지/sql산출물/사용자_누적상태.png?v=1" width="600" />
+
+</div>
+
 <br />
 
-<!-- ✅ 썸네일(3열) + 클릭 시 원본 보기 -->
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/검수결과.png">
-        <img src="./이미지/sql산출물/검수결과.png?v=1" width="260" alt="검수결과" />
-      </a>
-      <br /><sub><b>검수결과</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/검수증빙.png">
-        <img src="./이미지/sql산출물/검수증빙.png?v=1" width="260" alt="검수증빙" />
-      </a>
-      <br /><sub><b>검수증빙</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/대여_배정계약.png">
-        <img src="./이미지/sql산출물/대여_배정계약.png?v=1" width="260" alt="대여_배정계약" />
-      </a>
-      <br /><sub><b>대여_배정계약</b></sub>
-    </td>
-  </tr>
+<!-- ================= D ================= -->
+<div>
+	
+### 시스템 운영 (알림·정책·로그) 
 
-  <tr>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/반납_경고규칙.png">
-        <img src="./이미지/sql산출물/반납_경고규칙.png?v=1" width="260" alt="반납_경고규칙" />
-      </a>
-      <br /><sub><b>반납_경고규칙</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/반납검수.png">
-        <img src="./이미지/sql산출물/반납검수.png?v=1" width="260" alt="반납검수" />
-      </a>
-      <br /><sub><b>반납검수</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/반납요청.png">
-        <img src="./이미지/sql산출물/반납요청.png?v=1" width="260" alt="반납요청" />
-      </a>
-      <br /><sub><b>반납요청</b></sub>
-    </td>
-  </tr>
+#### 알림 <br>
+<a href="./이미지/sql산출물/알림.png"></a>
+  <img src="./이미지/sql산출물/알림.png?v=1" width="600" />
 
-  <tr>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/부서.png">
-        <img src="./이미지/sql산출물/부서.png?v=1" width="260" alt="부서" />
-      </a>
-      <br /><sub><b>부서</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/사용자_누적상태.png">
-        <img src="./이미지/sql산출물/사용자_누적상태.png?v=1" width="260" alt="사용자_누적상태" />
-      </a>
-      <br /><sub><b>사용자_누적상태</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/수리.png">
-        <img src="./이미지/sql산출물/수리.png?v=1" width="260" alt="수리" />
-      </a>
-      <br /><sub><b>수리</b></sub>
-    </td>
-  </tr>
+#### 정책_이벤트 로그 <br>
+<a href="./이미지/sql산출물/정책_이벤트로그.png"></a>
+  <img src="./이미지/sql산출물/정책_이벤트로그.png?v=1" width="600" />
 
-  <tr>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/알림.png">
-        <img src="./이미지/sql산출물/알림.png?v=1" width="260" alt="알림" />
-      </a>
-      <br /><sub><b>알림</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/입고이력.png">
-        <img src="./이미지/sql산출물/입고이력.png?v=1" width="260" alt="입고이력" />
-      </a>
-      <br /><sub><b>입고이력</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/자산.png">
-        <img src="./이미지/sql산출물/자산.png?v=1" width="260" alt="자산" />
-      </a>
-      <br /><sub><b>자산</b></sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/자산분류.png">
-        <img src="./이미지/sql산출물/자산분류.png?v=1" width="260" alt="자산분류" />
-      </a>
-      <br /><sub><b>자산분류</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/자산상태이력.png">
-        <img src="./이미지/sql산출물/자산상태이력.png?v=1" width="260" alt="자산상태이력" />
-      </a>
-      <br /><sub><b>자산상태이력</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/정책_이벤트로그.png">
-        <img src="./이미지/sql산출물/정책_이벤트로그.png?v=1" width="260" alt="정책_이벤트로그" />
-      </a>
-      <br /><sub><b>정책_이벤트로그</b></sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/직원.png">
-        <img src="./이미지/sql산출물/직원.png?v=1" width="260" alt="직원" />
-      </a>
-      <br /><sub><b>직원</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="./이미지/sql산출물/출고이력.png">
-        <img src="./이미지/sql산출물/출고이력.png?v=1" width="260" alt="출고이력" />
-      </a>
-      <br /><sub><b>출고이력</b></sub>
-    </td>
-    <td align="center" width="33%"></td>
-  </tr>
-</table>
+</div>
 
 <br />
 </details>
 
-
+---
 
 <details>
 
